@@ -1,0 +1,105 @@
+{
+    "i cant download app from appstore": {
+        "original": "i cant download app from appstore",
+        "responses": [
+            "login before with your apple account"
+        ]
+    },
+    "i cant upload my app on real device for testing": {
+        "original": "i cant upload my app on real device for testing",
+        "responses": [
+            "try refreshing and then try again"
+        ]
+    },
+    "cant unable unhide password while typing": {
+        "original": "cant unable unhide password while typing",
+        "responses": [
+            "cuz its disabled from our side"
+        ]
+    },
+    "i can enable unhide password while typing": {
+        "original": "i can enable unhide password while typing",
+        "responses": [
+            "thats good then, what is the issue?"
+        ]
+    },
+    "how to configure tunnel": {
+        "original": "how to configure tunnel",
+        "responses": [
+            "you have to download underpass"
+        ]
+    },
+    "i am not able to use camera to scan qr": {
+        "original": "i am not able to use camera to scan qr",
+        "responses": [
+            "use image injection to upload image"
+        ]
+    },
+    "i have joined the course of automation testing": {
+        "original": "i have joined the course of automation testing ",
+        "responses": [
+            "could you please explain more about your use case"
+        ],
+        "expanded": "feed sustain i class trend screen give possess throw automation form ingest course of instruction stimulate suffer 1 flow take grade join link essay test cause joined hold ace consume course of action ane feature the have got coupled I try out get together induce unity of wealthy person try iodine atomic number 53 testing unite path mechanisation mechanization conjoin bring together give birth one bear accept iodin united connect rich person experience get course row line deliver own have fall in examination single examine of course prove receive take in naturally make birth track let link up quiz run linked course of study"
+    },
+    "okay test downloading app tell need sign way bypass account creation dont want create account region need download app": {
+        "original": "Okay, I can test further but by downloading an app, it tells me I need to sign in. Is there a way to bypass an account creation because I don't want to create an account for all the regions. I just need to download the app",
+        "responses": [
+            "No sir, every time, you will need to sign in with your Apple ID account, as all session data is cleaned up once the session ends."
+        ]
+    },
+    "io real device cannot open setting open second close want check exact version io": {
+        "original": "in ios real devices I cannot open the 'Settings' on it. It open and a second or so it just closes. I want to check the exact version of the ios, how do i do it?",
+        "responses": [
+            "Settings access on iOS is blocked due to security restrictions, Instead of providing direct settings access, we have provided the App settings access in order to make edits to your app related settings on the device "
+        ]
+    },
+    "want check exact io version want device precisely get check use device version selecting device specifies": {
+        "original": "I want to check the exact iOS version. I want a device precisely with 18.7,how do I get to check or use the device with this version because while selecting a device it just specifies 18",
+        "responses": [
+            "You can only choose the actual IOS version and not the subversion but with the help of Switch Tab you can see the exact oS version"
+        ]
+    },
+    "heyyyy user": {
+        "original": "heyyyy user",
+        "responses": [
+            "helloo, how can i help you?"
+        ]
+    },
+    "need help": {
+        "original": "i need help",
+        "responses": [
+            "what kind of help? please elaborate"
+        ]
+    },
+    "get see list device supported lambdatest": {
+        "original": "where do i get to see the list of all devices supported on lambdatest",
+        "responses": [
+            "refer particular section from docs"
+        ]
+    },
+    "cant unabl unhid password io real devic": {
+        "original": "i cant unable unhide password in ios real device",
+        "responses": [
+            "yes you wont be able to since its not allowed from our side"
+        ]
+    },
+    "detail doc everi product": {
+        "original": "where are details of docs of every product",
+        "responses": [
+            "here is the link, you can check it out:- https://www.lambdatest.com/support/docs/"
+        ]
+    },
+    "queri regard free minut provid": {
+        "original": "i have a query regarding free minutes provided ",
+        "responses": [
+            "Free minutes are given once you login with your account , once the duration is completed you would need to buy a plan"
+        ]
+    },
+    "possibl way autom report kaneai like exampl want gener passfail report": {
+        "original": "what are the possible ways for automation reporting in KaneAI , like for example i want to generate pass/fail report",
+        "responses": [
+            "Please refer to this doc :- https://www.lambdatest.com/support/docs/tms-reports/"
+        ]
+    }
+}
